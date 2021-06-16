@@ -13,13 +13,13 @@ Users should be able to:
 
 ### Screenshot
 
-
+![desktop-preview](https://user-images.githubusercontent.com/62728037/122281723-f686bc80-cec0-11eb-9fff-815289fd5e28.jpg)
 
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://github.com/cleitonrs/faq-accordion-card-main]
+- Live Site URL: [https://cleitonrs.github.io/faq-accordion-card-main/]
 
 ## My process
 
