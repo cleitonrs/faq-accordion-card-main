@@ -146,6 +146,10 @@ p {
 }
 
 @media (max-width: 1275px) {
+  body {
+    margin-top: 100px;
+  }
+
   .images-container {
     width: 330px;
     height: 601px; 
