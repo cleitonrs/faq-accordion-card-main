@@ -148,6 +148,7 @@ p {
 @media (max-width: 1275px) {
   body {
     margin-top: 100px;
+    margin-left: 20px;
   }
 
   .images-container {
